@@ -1,0 +1,31 @@
+#red{
+  height: 100px;
+  width: 50%;
+  float: left;
+background-color: red;
+}
+.vuong{
+  height: 100px;
+  width: 50%;
+  float: left;
+  background-color: yellow;
+}
+.green{
+  height: 100px;
+  width: 50%;
+  float: left;
+  background-color: green;
+
+}
+.black{
+  height: 100px;
+  width: 50%;
+  float: left;
+  background-color: black;
+}
+.blue{
+  height: 100px;
+  width: 100%;
+  float: left;
+  background-color: blue;
+}
